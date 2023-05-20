@@ -1,6 +1,6 @@
 # Introduction
 
-- 👋 Hi, I’m @RFLCTNSCodesStuff!
+- 👋 Hi, I’m RFLCTNS!
 
 - 👀 I am a [neurodivergent](https://en.wikipedia.org/wiki/Neurodiversity), multimedia hobbyist!
 
