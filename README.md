@@ -12,13 +12,13 @@
 
 # Hobbies
 - Programming
-- Music production
+- Music Production
 - Artwork (I don't really do art that much, though)
-- Creative writing (my fanfiction can be found [here](https://archiveofourown.org/users/rflctns_writes))
+- Creative Writing (my fanfiction can be found [here](https://archiveofourown.org/users/rflctns_writes))
 - Gaming
 - Photography
 
 # Where to reach me
 - Twitter ([@RFLCTNSmusic](https://www.twitter.com/RFLCTNSmusic))
-- Discord (@RFLCTNS#1656)
+- Discord (@RFLCTNS)
 - YouTube ([@RFLCTNS](https://www.youtube.com/@RFLCTNS))
