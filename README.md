@@ -19,7 +19,6 @@
 - Photography
 
 # Where to reach me
-- Twitter ([@RFLCTNSmusic](https://www.twitter.com/RFLCTNSmusic))
 - Instagram ([@\_rflctns_](https://www.instagram.com/_rflctns_/))
 - Discord (@rflctns)
 - YouTube ([@RFLCTNS](https://www.youtube.com/@RFLCTNS))
