@@ -1,7 +1,5 @@
 # Introduction
-
 - 👋 Hi, I’m RFLCTNS!
-
 - 👀 I am a [neurodivergent](https://en.wikipedia.org/wiki/Neurodiversity), multimedia hobbyist!
 
 # Interests
@@ -18,7 +16,7 @@
 - Gaming
 - Photography
 
-# Where to reach me
+# Socials
 - Twitter ([@RFLCTNSmusic](https://www.twitter.com/RFLCTNSMusic))
 - Instagram ([@\_rflctns_](https://www.instagram.com/_rflctns_/))
 - YouTube ([@RFLCTNS](https://www.youtube.com/@RFLCTNS))
