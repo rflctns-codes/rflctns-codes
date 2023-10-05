@@ -4,9 +4,9 @@
 
 # Interests
 - [Touhou](https://en.touhouwiki.net/wiki/Touhou_Project)
+- Pokémon
 - [Len'en](http://lenen.shoutwiki.com/wiki/Len'en_Project)
 - [Celeste](http://celestegame.com)
-- Pokémon
 
 # Hobbies
 - Programming
