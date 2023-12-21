@@ -11,7 +11,6 @@
 # Hobbies
 - Programming
 - Music production
-- Artwork (I don't really do art that much, though)
 - Creative writing (my fanfiction can be found [here](https://archiveofourown.org/users/rflctns_writes))
 - Gaming
 - Photography
