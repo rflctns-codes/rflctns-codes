@@ -17,6 +17,5 @@
 
 # Socials
 - Twitter ([@RFLCTNSmusic](https://www.twitter.com/RFLCTNSMusic))
-- Instagram ([@\_rflctns_](https://www.instagram.com/_rflctns_/))
 - YouTube ([@RFLCTNS](https://www.youtube.com/@RFLCTNS))
 - Discord (@rflctns)
